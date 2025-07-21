@@ -1,5 +1,3 @@
-# Contact-Manager-Using-Trie
-A CLI-based Contact Manager built in C++ using Trie (Prefix Tree) data structure. This project demonstrates efficient contact storage, prefix-based search (like auto-complete), editing, and deletion operations using fundamental DSA concepts. It is ideal for showcasing real-world use of tries and hash maps in a fast, searchable contact system.
 # 📞 Contact Manager Using Trie (C++)
 
 A Command-Line Interface (CLI) Contact Manager written in C++ that uses the **Trie data structure** for efficient prefix-based search. This project demonstrates real-world usage of core Data Structures and Algorithms (DSA) concepts like Tries, Hash Maps, and Recursion.
